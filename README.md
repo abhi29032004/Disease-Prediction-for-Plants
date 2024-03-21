@@ -8,7 +8,7 @@
    myenv\Scripts\activate
    ```
 
-2.Install all packages from requirements.txt
+2. Install all packages from requirements.txt
    bash
    ```
    pip install -r requirements.txt

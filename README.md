@@ -10,9 +10,9 @@
 
 2.Install all packages from requirements.txt
    bash
-```
+   ```
   pip install -r requirements.txt
-```
+   ```
 3. Run main.py
    bash
    ```

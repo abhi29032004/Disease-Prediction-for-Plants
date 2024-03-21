@@ -9,7 +9,7 @@
    ```
 
 2.Install all packages from requirements.txt
-bash
+   bash
 ```
   pip install -r requirements.txt
 ```

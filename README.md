@@ -12,7 +12,6 @@
 bash
 ```
   pip install -r requirements.txt
-
 ```
 3. Run main.py
    bash

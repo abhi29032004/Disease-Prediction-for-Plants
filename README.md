@@ -4,8 +4,8 @@
 1. Create a virtual python environment
    bash
    ```
-     python -m venv myenv
-     myenv\Scripts\activate
+   python -m venv myenv
+   myenv\Scripts\activate
    ```
 
 2.Install all packages from requirements.txt
